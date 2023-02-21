@@ -19,6 +19,4 @@ narrow topic for discussion. Nobody likes a rambly meeting.*
 
 # About this issue
 
-This issue corresponds to a [lang-team design meeting proposal]. It corresponds to a possible topic of discussion that may be scheduled for deeper discussion during one of our design meetings.
-
-[lang-team design meeting proposal]: https://lang-team.rust-lang.org/meetings/design.html
+It corresponds to a possible topic of discussion that may be scheduled for deeper discussion during one of our design meetings.
